@@ -1,0 +1,146 @@
+.background{
+    background-image: url("home\ backkk.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    height: 95vh;
+    margin: 0;
+    padding: 10px;
+   
+}
+
+.button{
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 25PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 30px ;
+    right: 1350px ;
+    margin: auto;
+   color: aliceblue;
+   }
+
+   .button_About{
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 25PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 35px ;
+    right: 275px ;
+    margin: auto;
+   color: aliceblue;
+   
+   }
+
+   .zennn{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 12PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 348px ;
+    right: 1070px ;
+    margin: auto;
+   color: aliceblue;
+   }
+
+   .suruginnn{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 12PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 348px ;
+    right: 720px ;
+    margin: auto;
+   color: aliceblue;
+   }
+
+   .quensss{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 12PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 348px ;
+    right: 375px ;
+    margin: auto;
+   color: aliceblue;
+
+
+
+   }
+
+   .tigerrr{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 12PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 610px ;
+    right: 375px ;
+    margin: auto;
+   color: aliceblue;
+
+   }
+
+   .girasolll{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 12PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 610px ;
+    right: 720px ;
+    margin: auto;
+   color: aliceblue;
+   }
+
+   .tigsss{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 12PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 610px ;
+    right: 1070px ;
+    margin: auto;
+   color: aliceblue;
+   
+
+   }
+
+
+
+   .button_contactus{
+        background-color: darkgoldenrod;
+        border-radius: 10px;
+        overflow: hidden;
+        font-size: 25PX;
+        padding: 10px;
+        cursor: pointer;
+        position: fixed;
+        top: 30px ;
+        right: 50px ;
+        margin: auto;
+       color: aliceblue;
+       padding-right: 30px;
+   }

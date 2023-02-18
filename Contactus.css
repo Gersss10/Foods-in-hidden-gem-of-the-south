@@ -1,0 +1,55 @@
+.background{
+    background-image: url("Contttt2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    height: 95vh;
+    margin: 0;
+    padding: 5px;
+}
+
+.button{
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 25PX;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    top: 30px ;
+    right: 1350px ;
+    margin: auto;
+   color: aliceblue;
+
+   }
+
+   .b1{
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 25PX;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    top: 500px ;
+    right: 885px ;
+    margin: auto;
+   color: aliceblue;
+
+   }
+
+   .b2{
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 25PX;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    top: 500px ;
+    right: 420px ;
+    margin: auto;
+   color: aliceblue;
+
+   }
+

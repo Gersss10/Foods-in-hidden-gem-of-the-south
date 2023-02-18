@@ -1,0 +1,28 @@
+body{
+    background-image: url("ww\ Covererrr.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+ 
+   .button{
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 25PX;
+    padding: 10px;
+    cursor: pointer;
+    position: fixed;
+    top: 500px ;
+    right: 670px ;
+    margin: auto;
+   color: aliceblue;
+   }
+
+   .text1{
+   
+    font-size: large;
+   }
+       
+    
